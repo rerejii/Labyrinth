@@ -2,7 +2,7 @@
 ARMアセンブリでRaspberry Piに繋がる8×8ディスプレイやスピーカ等を制御し作成した迷路ゲームです。
 LEDの秒間点滅速度を調整しプレイヤーと壁の位置を判別させ、音楽も特定の周波数を何秒流すという形式で手打ちで書いています。
 コード行数は全体で17500程です。
-オマケでBad Appleの影絵(https://www.nicovideo.jp/watch/sm8628149)を再現
+オマケでBad Appleの影絵 https://www.nicovideo.jp/watch/sm8628149 を再現
 
 - メインルーチン main.s
 - Bad Apple動画コード bad_pv.s
