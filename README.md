@@ -9,8 +9,8 @@ LEDの秒間点滅速度を調整しプレイヤーと壁の位置を判別さ�
 - Bad Apple音楽コード bad_music.s
 
 ## ゲーム動画
-ゲーム動画: https://drive.google.com/open?id=1-369oTPhzCQRJ7Wn3x1RsQAax8_ZLriN
-Bad Apple動画: https://drive.google.com/open?id=1nqjd6CQDK0EmLISxau3qRxo3gOp1v5db
+- ゲーム動画: https://drive.google.com/open?id=1-369oTPhzCQRJ7Wn3x1RsQAax8_ZLriN
+- Bad Apple動画: https://drive.google.com/open?id=1nqjd6CQDK0EmLISxau3qRxo3gOp1v5db
  
 # 以下取扱説明書
 
